@@ -3,7 +3,7 @@
   padding-top: 90px;
   min-height: 600px;
   margin-bottom: 0;
-  background-image: url('../images/globe.jpg');
+  background-image: url( '../images/globe.jpg');
   background-size: cover;
   background-attachment: fixed;
 }
